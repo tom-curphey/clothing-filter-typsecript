@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fb7fc7d4978686b9a101ddf550e580f",
+    "revision": "c12a70b5bbf8874cbda42a49183d51f6",
     "url": "/clothing-filter-typescript/index.html"
   },
   {
